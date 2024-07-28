@@ -1,0 +1,7 @@
+Le script doit afficher Hello World
+Journaliser l'exécution du fichier 
+tester avec tail -f pour voir en temps réel les logs
+1. mkdir nom du dossier 
+2. touch fichier sh
+3. echo"hello world"
+4.0 * * * * /chemin/vers/fichier sh
